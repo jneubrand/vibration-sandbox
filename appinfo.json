@@ -1,0 +1,18 @@
+{
+  "uuid": "1421d6a7-7a58-41a0-8729-4c911338b174",
+  "shortName": "Vibration Sandbox",
+  "longName": "Vibration Sandbox",
+  "companyName": "Johannes Neubrand",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
